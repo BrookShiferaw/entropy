@@ -1,2 +1,2 @@
 # gaze entropy
-simulations for gaze entropy analysis
+simple simulations for gaze entropy exploration
